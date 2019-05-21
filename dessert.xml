@@ -1,0 +1,31 @@
+<desserts>
+    <dessert type="treat">
+        <name>cupcake</name>
+        <flavors>
+            <flavor name="chocolate"/>
+            <flavor name="red velvet"/>
+        </flavors>
+    </dessert>
+    <dessert type="treat">
+        <name>ice cream</name>
+        <flavors>
+            <flavor name="chocolate"/>
+            <flavor name="strawberry"/>
+            <flavor name="vanilla"/>
+        </flavors>
+    </dessert>
+    <dessert type="treat">
+        <name>pie</name>
+        <flavors>
+            <flavor name="banana cream"/>
+            <flavor name="blueberry"/>
+            <flavor name="cherry"/>
+        </flavors>
+    </dessert>
+    <dessert type="beverage">
+        <name>hot chocolate</name>>
+    </dessert>
+    <dessert type="beverage">
+        <name>port wine</name>
+    </dessert>
+</desserts>
